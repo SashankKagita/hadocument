@@ -20,9 +20,9 @@ export default {
     </div>
   ),
   project: {
-    link: 'https://github.com/yourusername/content-hub',
+    link: 'https://github.com/SashankKagita/hadocument',
   },
-  docsRepositoryBase: 'https://github.com/yourusername/content-hub/blob/main/',
+  docsRepositoryBase: 'https://github.com/SashankKagita/hadocument/blob/main/',
   footer: {
     text: <span>Content Hub © {new Date().getFullYear()}</span>,
   },
